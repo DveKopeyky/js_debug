@@ -1,6 +1,6 @@
 logger = {
   data: {},
-  
+  // test
   addLog: function (message, key, element) {
     if (key === undefined) {
       key = 'default';
